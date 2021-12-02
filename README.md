@@ -16,4 +16,7 @@ Ugh. Strongly typed variables.
 My implementation is clunky for the sliding window, but I don't know how to array/vector yet!
 Got both stars.
 
+## Day 2
+Discovered Cargo and package managment. Yay package library!
+Attempted regex and learning error handling in a not unrelated way.
 
